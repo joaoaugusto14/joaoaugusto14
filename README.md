@@ -1,7 +1,6 @@
-## Olá, sou João Augusto
+## Olá, sou João Augusto! um analista de dados!
+##
 
-
-## 🚀 Tecnologias
 Sou um desenvolvedor apaixonado pelo que eu faço. Seguindo a analogia do ditado "quem faz o que gosta vive de férias", por isso estou atrás de sempre aprender algo novo que me ajude ser cada vez melhor.
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
