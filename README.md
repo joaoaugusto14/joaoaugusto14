@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # JoaoAugusto
+
 🐍 Minhas contribuições
 
 ![snake gif](https://github.com/joaoaugusto14/JoaoAugusto/blob/output/github-contribution-grid-snake.svg)
