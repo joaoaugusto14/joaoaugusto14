@@ -15,3 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40"/>
 </p>
+
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/joaoaugusto014" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50"/>
+</a>
