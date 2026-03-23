@@ -1,5 +1,4 @@
 ## Olá, sou João Augusto! um analista de dados!
-##
 
 Sou um desenvolvedor apaixonado pelo que eu faço. Seguindo a analogia do ditado "quem faz o que gosta vive de férias", por isso estou atrás de sempre aprender algo novo que me ajude ser cada vez melhor.
 <p>
@@ -16,6 +15,9 @@ Sou um desenvolvedor apaixonado pelo que eu faço. Seguindo a analogia do ditado
 </a>
 
 
+
+
+##
 
 🐍 Minhas contribuições
 
