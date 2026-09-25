@@ -1,4 +1,4 @@
-## Olá, sou João Augusto! um analista de dados!
+## Olá, sou João Augusto!
 
 Sou um desenvolvedor.
 <p>
